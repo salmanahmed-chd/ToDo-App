@@ -62,7 +62,7 @@ const Todo = () => {
             <div className="flex flex-col items-center justify-around mt-4">
                 <div className="flex justify-center items-center">
                     <img src={logo} alt="todo-logo" className="w-12 mr-2 shadow-sm" />
-                    <h1 className="text-5xl font-bold ml-2">ToDo Task</h1>
+                    <h1 className="text-5xl font-bold lg:ml-2">ToDo Task</h1>
                 </div>
 
                 <div className="lg:flex lg:justify-between lg:items-center mt-12 w-full text-base mx-2 lg:mx-16">
